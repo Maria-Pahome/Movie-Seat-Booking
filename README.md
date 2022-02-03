@@ -1,2 +1,1 @@
-#Movie Seat Booking
-#Brad Traversy's 2nd project JS 
+Brad Traversy's 2nd Vanilla JS Project example
