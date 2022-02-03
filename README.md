@@ -1,2 +1,2 @@
-# 2ndProject-VanillaJS
+Theater Seats
 Brad Traversy's 2nd project JS 
